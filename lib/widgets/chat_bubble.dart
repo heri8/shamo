@@ -101,7 +101,7 @@ class ChatBubble extends StatelessWidget {
                       fontWeight: medium,
                     ),
                   ),
-                )
+                ),
               ],
             )
           ],
