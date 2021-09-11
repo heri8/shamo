@@ -113,19 +113,19 @@ class _MainPageState extends State<MainPage> {
       switch (currentIndex) {
         case 0:
           return HomePage();
-          break;
+        // break;
         case 1:
           return ChatPage();
-          break;
+        // break;
         case 2:
           return WishlistPage();
-          break;
+        // break;
         case 3:
           return ProfilePage();
-          break;
+        // break;
         default:
           return HomePage();
-          break;
+        // break;
       }
     }
 
